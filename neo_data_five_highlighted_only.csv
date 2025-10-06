@@ -1,0 +1,6 @@
+date,id,name,absolute_magnitude_h,is_potentially_hazardous,nasa_jpl_url,est_diameter_min_km,est_diameter_max_km,approach_date,relative_velocity_km_s,miss_distance_km,orbiting_body
+2025-09-07,3781301,(2017 QY34),20.93,True,https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3781301,0.1732028271,0.3872932954,2025-09-07,27.5457116905,61579875.3527469,Earth
+2025-09-14,54524508,(2025 FR5),20.55,True,https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54524508,0.2063264836,0.4613600429,2025-09-14,13.0985598725,23076818.4716008,Earth
+2025-09-24,3581669,(2011 TX8),22.0,True,https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3581669,0.1058168859,0.2366137501,2025-09-24,37.8763092063,73006767.8511816,Earth
+2025-09-28,3557843,(2011 DV),20.79,True,https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=3557843,0.1847374636,0.4130855266,2025-09-28,6.1112915121,22164403.0508872,Earth
+2025-10-04,54203006,(2021 SZ4),20.47,True,https://ssd.jpl.nasa.gov/tools/sbdb_lookup.html#/?sstr=54203006,0.2140695897,0.4786741544,2025-10-04,44.5235909383,71892716.0886807,Earth
